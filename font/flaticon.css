@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon61c0.ttf?240364e65d61d76842d575401f4aeddb") format("truetype"),
+url("flaticon61c0.woff?240364e65d61d76842d575401f4aeddb") format("woff"),
+url("flaticon61c0.woff2?240364e65d61d76842d575401f4aeddb") format("woff2"),
+url("flaticon61c0.eot?240364e65d61d76842d575401f4aeddb#iefix") format("embedded-opentype"),
+url("flaticon61c0.svg?240364e65d61d76842d575401f4aeddb#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-digital-marketing:before {
+    content: "\f101";
+}
+.flaticon-verified:before {
+    content: "\f102";
+}
+.flaticon-donation:before {
+    content: "\f103";
+}
+.flaticon-love:before {
+    content: "\f104";
+}
+.flaticon-live-chat:before {
+    content: "\f105";
+}
+.flaticon-donation-1:before {
+    content: "\f106";
+}
+.flaticon-technical-support:before {
+    content: "\f107";
+}
+.flaticon-volunteer:before {
+    content: "\f108";
+}
+.flaticon-cardiogram:before {
+    content: "\f109";
+}
+.flaticon-fast-food:before {
+    content: "\f10a";
+}
+.flaticon-mortarboard:before {
+    content: "\f10b";
+}
+.flaticon-trophy:before {
+    content: "\f10c";
+}
+.flaticon-chart:before {
+    content: "\f10d";
+}
+.flaticon-healthcare:before {
+    content: "\f10e";
+}
+.flaticon-mortarboard-1:before {
+    content: "\f10f";
+}
