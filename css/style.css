@@ -2973,9 +2973,10 @@ footer{
     color: #999;
 }
 .xs-heading p {
-    margin-bottom: 0;
-    font-size: 1.14286em;
+	margin-bottom: 0;
+	font-size: 1.35em;
 	font-family: 'Covered By Your Grace', cursive;
+	line-height: 1.5;
 }
 .xs-funfact-content-wraper .xs-heading {
     margin-bottom: 60px;
@@ -3056,9 +3057,9 @@ footer{
     color: #3ac798;
 }
 .xs-partner-content p {
-    font-size: 1.14286em;
+    font-size: 1.19em;
     margin-bottom: 50px;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Covered By Your Grace', cursive;
 }
 
 .customBtn .btn {
