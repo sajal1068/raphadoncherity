@@ -2940,7 +2940,7 @@ footer{
 
 
 .xs-section-paddding{
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-weight:400;
 	font-size:14px;
 	line-height:1.857;
@@ -2967,7 +2967,7 @@ footer{
 .xs-funfact-content-wraper .xs-title {
     color: #fff;
     margin-bottom: 29px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 .xs-funfact-content-wraper p {
     color: #999;
@@ -2975,7 +2975,7 @@ footer{
 .xs-heading p {
     margin-bottom: 0;
     font-size: 1.14286em;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Covered By Your Grace', cursive;
 }
 .xs-funfact-content-wraper .xs-heading {
     margin-bottom: 60px;
@@ -2995,13 +2995,13 @@ footer{
     color: #fff;
     font-weight: 700;
     line-height: 1.5;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 .xs-single-funFact-v3 small {
     display: block;
     font-size: 1.57143em;
     color: #999;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Covered By Your Grace', cursive;
 }
 
 
@@ -3031,7 +3031,7 @@ footer{
     background-position: center center;
     background-size: contain;
     padding: 75px 0;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 .bg-gray {
     background-color: #f9f9f9;
@@ -3047,7 +3047,7 @@ footer{
     position: relative;
     z-index: 1;
     margin-bottom: 21px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 .xs-mb-40 {
     margin-bottom: 40px;
@@ -3058,7 +3058,7 @@ footer{
 .xs-partner-content p {
     font-size: 1.14286em;
     margin-bottom: 50px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 
 .customBtn .btn {
